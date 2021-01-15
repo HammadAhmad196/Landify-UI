@@ -65,9 +65,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
  
-## Live App Available On Netlify: [https://cocky-galileo-7a0162.netlify.app] (App link Preview on Netlify)
-
-### `npm run build` fails to minify
+## Live App Available On Netlify: https://cocky-galileo-7a0162.netlify.app (Preview on Netlify)
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# Landify-UI" 
