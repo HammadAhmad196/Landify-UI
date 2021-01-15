@@ -64,6 +64,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 ### Deployment
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+ 
+## Live Demo Available On Netlify: [https://cocky-galileo-7a0162.netlify.app] (App link Preview on Netlify)
 
 ### `npm run build` fails to minify
 
